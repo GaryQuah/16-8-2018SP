@@ -1,0 +1,26 @@
+﻿  main.cpp
+  game.cpp
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(500): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(501): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(502): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(503): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(506): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(657): warning C4018: '<': signed/unsigned mismatch
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(686): warning C4309: 'argument': truncation of constant value
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(691): warning C4309: 'argument': truncation of constant value
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(696): warning C4309: 'argument': truncation of constant value
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(701): warning C4309: 'argument': truncation of constant value
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(706): warning C4309: 'argument': truncation of constant value
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(731): warning C4018: '<': signed/unsigned mismatch
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(735): warning C4309: '=': truncation of constant value
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(757): warning C4018: '<': signed/unsigned mismatch
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(771): warning C4309: 'argument': truncation of constant value
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(780): warning C4309: 'argument': truncation of constant value
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(799): warning C4309: 'argument': truncation of constant value
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(810): warning C4244: 'argument': conversion from 'SHORT' to 'char', possible loss of data
+d:\users\l533\desktop\sp\compiled_sp\sp1framework\game.cpp(811): warning C4244: 'argument': conversion from 'SHORT' to 'char', possible loss of data
+  timer.cpp
+  console.cpp
+  Generating Code...
+  SP1Framework.vcxproj -> D:\Users\l533\Desktop\sp\Compiled_SP\Debug\SP1Framework.exe
+  SP1Framework.vcxproj -> D:\Users\l533\Desktop\sp\Compiled_SP\Debug\SP1Framework.pdb (Full PDB)
